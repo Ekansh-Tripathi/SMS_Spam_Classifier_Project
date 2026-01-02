@@ -19,6 +19,7 @@ It classifies messages as **Spam** or **Ham (Not Spam)**
 ## ▶️ How to Run
 1️⃣ Clone this repository  
 2️⃣ Create virtual environment  
-3️⃣ Install requirements  
-4️⃣ Run app.py
+3️⃣ Activate Virtual Environment
+4️⃣ Install Requirements
+5️⃣ Run App
 
