@@ -23,3 +23,11 @@ It classifies messages as **Spam** or **Ham (Not Spam)**
 4️⃣ Install Requirements
 5️⃣ Run App
 
+
+---
+
+## 🎯 Output
+The model predicts whether an SMS is:
+📩 **Spam**  
+📨 **Ham (Not Spam)**
+
